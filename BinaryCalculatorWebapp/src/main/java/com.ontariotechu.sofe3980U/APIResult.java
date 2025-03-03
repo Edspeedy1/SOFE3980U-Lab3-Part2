@@ -1,5 +1,5 @@
-package com.ontariotechu.sofe3980U;
-//import com.remkohde.hello.Binary
+package com.ontariotechu.sofe3980u;
+
 public class APIResult {
 	private String name;
 	private String suggestedEmail;
